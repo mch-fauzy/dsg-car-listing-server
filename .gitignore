@@ -1,0 +1,12 @@
+node_modules/
+app2.js
+seeders/
+migrations/*.Identifier
+*.yaml
+*.Identifier
+*.txt
+.vercel
+.env
+.env.development
+.env.production
+.env.test
